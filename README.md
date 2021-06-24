@@ -118,5 +118,4 @@ Saygılarımla, [Ahmet F. UZUNKAYA](https://github.com/MihrimatriX)
 <img alt="Görüntüleme" src="https://gpvc.arturio.dev/MihrimatriX"/>
 </p>
 </br>
-
 Son Düzenleme : [ 04 / 06 / 2021 ]
