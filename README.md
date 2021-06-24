@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+<img width="100%" height="250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" />
 </div>
 <br>
 
@@ -12,7 +12,7 @@
 </p>
 
 <h2> About Me 
-<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="32px" />
 </h2>
 
 
@@ -53,33 +53,33 @@ Here are some ideas to get you started:
 </h2>
 
 <p align="center">
-<a href="">
-<img src="https://github-profile-trophy.vercel.app/?username=MihrimatriX" alt="MihrimatriX" />
+<a>
+<img alt="MihrimatriX" src="https://github-profile-trophy.vercel.app/?username=MihrimatriX" width="100%" />
 </a>
 </p>
 </br>
 
 <p align="center">
 <a>
-<img alt="GitHub Metrics" src="https://github-readme-stats.vercel.app/api?username=MihrimatriX&show_icons=true&count_private=true&theme=monokai" />
+<img alt="GitHub Metrics" src="https://github-readme-stats.vercel.app/api?username=MihrimatriX&show_icons=true&count_private=true&theme=monokai" width="100%" />
 </a>
 </br>
 
 <p align="center">
 <a>
-<img alt="GitHub Metrics" src="https://metrics.lecoq.io/MihrimatriX" />
+<img alt="GitHub Metrics" src="https://metrics.lecoq.io/MihrimatriX"width="100%"  />
 </a>
 </br>
 
 <p align="center">
 <a>
-<img alt="MihrimatriX's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MihrimatriX&theme=monokai-metallian&hide_border=true" />
+<img alt="MihrimatriX's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MihrimatriX&theme=monokai-metallian&hide_border=true" width="100%" />
 </a>
 </br>
 
 <p align="center">
 <a>
-<img alt="MihrimatriX's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MihrimatriX&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="MihrimatriX's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MihrimatriX&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="100%" />
 </a>
 </br></br></br>
 
