@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a>
-<img alt="MihrimatriX" src="https://github-profile-trophy.vercel.app/?username=MihrimatriX" />
+<img alt="MihrimatriX" src="https://github-profile-trophy.vercel.app/?username=MihrimatriX" width="550px" height="110px"/>
 </a>
 </p>
 </br>
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a>
-<img alt="GitHub Metrics" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MihrimatriX&langs_count=10&theme=monokai&layout=compact" />
+<img alt="GitHub Metrics" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MihrimatriX&langs_count=10&theme=monokai&layout=compact&count_private=true" />
 </a>
 </br>
 
@@ -124,5 +124,5 @@ Saygılarımla, [Ahmet F. UZUNKAYA](https://github.com/MihrimatriX)
 <p>
 <img alt="Görüntüleme" src="https://gpvc.arturio.dev/MihrimatriX"/>
 </p>
-</br>
+
 Son Düzenleme : [ 04 / 06 / 2021 ]
