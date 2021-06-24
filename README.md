@@ -54,32 +54,38 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a>
-<img alt="MihrimatriX" src="https://github-profile-trophy.vercel.app/?username=MihrimatriX" width="100%" />
+<img alt="MihrimatriX" src="https://github-profile-trophy.vercel.app/?username=MihrimatriX" />
 </a>
 </p>
 </br>
 
 <p align="center">
 <a>
-<img alt="GitHub Metrics" src="https://github-readme-stats.vercel.app/api?username=MihrimatriX&show_icons=true&count_private=true&theme=monokai" width="100%" />
+<img alt="GitHub Metrics" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MihrimatriX&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" />
 </a>
 </br>
 
 <p align="center">
 <a>
-<img alt="GitHub Metrics" src="https://metrics.lecoq.io/MihrimatriX"width="100%"  />
+<img alt="GitHub Metrics" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MihrimatriX&langs_count=20&theme=monokai" />
 </a>
 </br>
 
 <p align="center">
 <a>
-<img alt="MihrimatriX's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MihrimatriX&theme=monokai-metallian&hide_border=true" width="100%" />
+<img alt="GitHub Metrics" src="https://metrics.lecoq.io/MihrimatriX" />
 </a>
 </br>
 
 <p align="center">
 <a>
-<img alt="MihrimatriX's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MihrimatriX&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="100%" />
+<img alt="MihrimatriX's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MihrimatriX&theme=monokai-metallian&hide_border=true" />
+</a>
+</br>
+
+<p align="center">
+<a>
+<img alt="MihrimatriX's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MihrimatriX&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
 </br></br></br>
 
