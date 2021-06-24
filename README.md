@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' />
 </h2>
 
-<p>
+<p align="center">
 <a href="">
 <img src="https://github-profile-trophy.vercel.app/?username=MihrimatriX" alt="MihrimatriX" />
 </a>
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a>
-<img alt="MihrimatriX's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MihrimatriX&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="512px"/>
+<img alt="MihrimatriX's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MihrimatriX&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
 </br></br></br>
 
