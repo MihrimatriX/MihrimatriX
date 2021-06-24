@@ -115,6 +115,8 @@ Here are some ideas to get you started:
 Saygılarımla, [Ahmet F. UZUNKAYA](https://github.com/MihrimatriX)
 
 <p>
-<img align="center" alt="visitors" src="https://gpvc.arturio.dev/MihrimatriX"/>
+<img alt="Görüntüleme" src="https://gpvc.arturio.dev/MihrimatriX"/>
 </p>
+</br>
+
 Son Düzenleme : [ 04 / 06 / 2021 ]
