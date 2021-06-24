@@ -54,26 +54,26 @@ Here are some ideas to get you started:
 
 <p>
 <a href="">
-<img src="https://github-profile-trophy.vercel.app/?username=MihrimatriX" alt="MihrimatriX" width="1024px" />
+<img src="https://github-profile-trophy.vercel.app/?username=MihrimatriX" alt="MihrimatriX" width="728px" />
 </a>
 </p>
 </br>
 
 <p align="center">
 <a>
-<img alt="GitHub Metrics" src="https://github-readme-stats.vercel.app/api?username=MihrimatriX&show_icons=true&count_private=true&theme=monokai" width="1024px"/>
+<img alt="GitHub Metrics" src="https://github-readme-stats.vercel.app/api?username=MihrimatriX&show_icons=true&count_private=true&theme=monokai" width="728px"/>
 </a>
 </br>
 
 <p align="center">
 <a>
-<img alt="GitHub Metrics" src="https://metrics.lecoq.io/MihrimatriX" width="1024px"/>
+<img alt="GitHub Metrics" src="https://metrics.lecoq.io/MihrimatriX" width="728px"/>
 </a>
 </br>
 
 <p align="center">
 <a>
-<img alt="MihrimatriX's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MihrimatriX&theme=monokai-metallian&hide_border=true" width="1024px" />
+<img alt="MihrimatriX's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MihrimatriX&theme=monokai-metallian&hide_border=true" width="728px" />
 </a>
 </br>
 
