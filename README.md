@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a>
-<img alt="GitHub Metrics" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MihrimatriX&langs_count=20&theme=monokai" />
+<img alt="GitHub Metrics" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MihrimatriX&langs_count=10&theme=monokai&layout=compact" />
 </a>
 </br>
 
