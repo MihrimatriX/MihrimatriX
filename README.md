@@ -54,31 +54,32 @@ Here are some ideas to get you started:
 
 <p>
 <a href="">
-<img src="https://github-profile-trophy.vercel.app/?username=MihrimatriX" alt="MihrimatriX" width="728px" />
+<img src="https://github-profile-trophy.vercel.app/?username=MihrimatriX" alt="MihrimatriX" />
 </a>
 </p>
 </br>
 
 <p align="center">
 <a>
-<img alt="GitHub Metrics" src="https://github-readme-stats.vercel.app/api?username=MihrimatriX&show_icons=true&count_private=true&theme=monokai" width="728px"/>
+<img alt="GitHub Metrics" src="https://github-readme-stats.vercel.app/api?username=MihrimatriX&show_icons=true&count_private=true&theme=monokai" />
 </a>
 </br>
 
 <p align="center">
 <a>
-<img alt="GitHub Metrics" src="https://metrics.lecoq.io/MihrimatriX" width="728px"/>
+<img alt="GitHub Metrics" src="https://metrics.lecoq.io/MihrimatriX" />
 </a>
 </br>
 
 <p align="center">
 <a>
-<img alt="MihrimatriX's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MihrimatriX&theme=monokai-metallian&hide_border=true" width="728px" />
+<img alt="MihrimatriX's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MihrimatriX&theme=monokai-metallian&hide_border=true" />
 </a>
 </br>
 
+<p align="center">
 <a>
-<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MihrimatriX&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="MihrimatriX's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MihrimatriX&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="512px"/>
 </a>
 </br></br></br>
 
