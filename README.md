@@ -54,32 +54,32 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a>
-<img alt="MihrimatriX" src="https://github-profile-trophy.vercel.app/?username=MihrimatriX" width="550px" height="110px"/>
+<img alt="MihrimatriX" src="https://github-profile-trophy.vercel.app/?username=MihrimatriX" width="660px" height="220px"/>
 </a>
 </p>
 </br>
 
 <p align="center">
 <a>
-<img alt="GitHub Metrics" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MihrimatriX&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" />
+<img alt="GitHub Metrics" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MihrimatriX&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" width="660px"/>
 </a>
 </br>
 
 <p align="center">
 <a>
-<img alt="GitHub Metrics" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MihrimatriX&langs_count=10&theme=monokai&layout=compact&count_private=true" />
+<img alt="GitHub Metrics" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MihrimatriX&langs_count=10&theme=monokai&layout=compact&count_private=true" width="660px" />
 </a>
 </br>
 
 <p align="center">
 <a>
-<img alt="GitHub Metrics" src="https://metrics.lecoq.io/MihrimatriX" />
+<img alt="GitHub Metrics" src="https://metrics.lecoq.io/MihrimatriX" width="660px"/>
 </a>
 </br>
 
 <p align="center">
 <a>
-<img alt="MihrimatriX's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MihrimatriX&theme=monokai-metallian&hide_border=true" />
+<img alt="MihrimatriX's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MihrimatriX&theme=monokai-metallian&hide_border=true" width="660px" />
 </a>
 </br>
 
