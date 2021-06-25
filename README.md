@@ -92,6 +92,7 @@ Here are some ideas to get you started:
 </p>
 
 ### 🧰 Frameworks and Libraries
+</br>
 
 <p>
     <a>
@@ -119,14 +120,12 @@ Here are some ideas to get you started:
     <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB">
     </a>
     <a>
-    <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white">
-    </a>
-    <a>
     <img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white">
     </a>
 </p>
 
-### 🗄️ Databases And cloud Hosting
+### 🗄️ Databases And Cloud Hosting
+</br>
 
 <p>
     <a>
@@ -153,6 +152,7 @@ Here are some ideas to get you started:
 </p>
 
 ### 💻 Software And Tools
+</br>
 
 <p>
     <a>
