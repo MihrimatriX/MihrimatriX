@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height="250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" />
+<img width="100%" height="250px" src="https://raw.githubusercontent.com/MihrimatriX/MihrimatriX/master/Animation.gif" />
 </div>
 <br>
 
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
     <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
     </a>
     <a>
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518">
     </a>
     <a>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
@@ -238,7 +238,7 @@ Here are some ideas to get you started:
 </br>
 <p align="center">
 <a>
-<img alt="MihrimatriX" src="https://github-profile-trophy.vercel.app/?username=MihrimatriX" width="660px" height="220px"/>
+<img alt="MihrimatriX" src="https://github-profile-trophy.vercel.app/?username=MihrimatriX&theme=onedark&column=5&row=2" width="660px" height="220px"/>
 </a>
 </p>
 </br>
