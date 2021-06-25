@@ -219,6 +219,9 @@ Here are some ideas to get you started:
     <a>
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
     </a>
+      <a>
+    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=Visual%Studio&logoColor=white">
+    </a>
 </p>
 
 </br>
@@ -231,8 +234,6 @@ Here are some ideas to get you started:
 <h2> MY GITHUB STATS    
 <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' />
 </h2>
-
----
 
 </br>
 <p align="center">
@@ -258,7 +259,7 @@ Here are some ideas to get you started:
 <a>
 <img 
   alt="GitHub Metrics" 
-  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MihrimatriX&langs_count=10&theme=monokai&layout=compact&count_private=true" 
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MihrimatriX&langs_count=20&theme=monokai&layout=compact&count_private=true" 
   width="660px" />
 </a>
 </br>
@@ -285,7 +286,8 @@ Here are some ideas to get you started:
 <!-- Github Stats END-->
 
 <!-- My Connect START -->
-<h2> Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px"> </h2><br>
+<h2> CONNECT WITH ME 
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px"> </h2><br>
 
 <p align="center">
 
@@ -357,14 +359,13 @@ Here are some ideas to get you started:
 </p>
 <!-- My Connect END -->
 
----
+</br>
+<h1 align='center'> ⚡️ <i> STAY WELL </i> ⚡️ </h1>
 
-<h1 align='center'> ⚡️ <i> Sağlıcakla Kalın </i> ⚡️ </h1>
-
-Saygılarımla, [Ahmet F. UZUNKAYA](https://github.com/MihrimatriX)
+Best Regards, [Ahmet F. UZUNKAYA](https://github.com/MihrimatriX)
 
 <p>
 <img alt="Views" src="https://gpvc.arturio.dev/MihrimatriX"/>
 </p>
 
-Son Düzenleme : [ 25 / 06 / 2021 ]
+Last Edit : [ 25 / 06 / 2021 ]
