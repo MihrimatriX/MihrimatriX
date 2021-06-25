@@ -36,9 +36,10 @@ Here are some ideas to get you started:
 
 ## 🛠️ MY FAVORITE TOOLS
 
-### 👨‍💻 Programming Languages
 
 </br>
+
+### 👨‍💻 Programming Languages
 
 <p>
     <a>
@@ -88,9 +89,9 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-### 🧰 Frameworks and Libraries
-
 </br>
+
+### 🧰 Frameworks and Libraries
 
 <p>
     <a>
@@ -128,9 +129,9 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-### 🗄️ Databases And Cloud Hosting
-
 </br>
+
+### 🗄️ Databases And Cloud Hosting
 
 <p>
     <a>
@@ -158,36 +159,33 @@ Here are some ideas to get you started:
 
 ### 💻 Software And Tools
 
-</br>
-
 <p>
     <a>
     <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white">
     </a>
     <a>
-    <img alt="Adobe" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
+    <img alt="Adobe" src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop">
     </a>
     <a>
-    <img alt="Adobe" src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop">
-    </a><a>
-    <img alt="Adobe" src="https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign">
+    <img alt="InDesign" src="https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign">
     </a>    
     <a>
-    <img alt="Adobe" src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255">
+    <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255">
     </a>
     <a>
     <img alt="Adobe" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
     </a>
     <a>
     <img alt="Adobe" src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator">
-    </a><!--     -->
+    </a>
     <a>
     <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white">
     </a>
     <a>
     <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
     </a>
-    <a><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white">
+    <a>
+    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white">
     </a>
     <a>
     <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white">
@@ -290,36 +288,41 @@ Here are some ideas to get you started:
 <h2> Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px"> </h2><br>
 
 <p align="center">
+
 <a href="https://www.youtube.com/c/UC7VsVp68Rx_Ah9J6Yll4qKQ">
 <img 
   alt="Youtube" 
   title="Youtube" 
   src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
+
 <a href="https://twitter.com/faruk_uzunkaya">
 <img 
   alt="Twitter" 
   title="Twitter" 
   src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-<a href="https://discord.gg/UpbJxVzgyQ" alt="Dev Pro Tips Discussion & Support Server">
+
+<a href="https://discord.gg/UpbJxVzgyQ" alt="ALUmation Server">
 <img 
   src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/>
 </a>
 
+<a href="https://www.instagram.com/_ahmetfuzunkaya/" alt="Instagram">
 <img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
-<a href="mailto:dataonatangent@gmail.com?subject=Hola%20Jiji">
+<a href="mailto:sosyal.ahmet.fuzunkaya@gmail.com?subject=Hola%20Jiji">
 <img 
     src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" 
     alt="Gmail"/>
 </a>
 
-<a href="">
+<a href="" alt="My Portfolio" >
 <img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">
 </a>
 
-<a href="https://discord.gg/UpbJxVzgyQ" alt="Dev Pro Tips Discussion & Support Server">
+<a href="https://www.linkedin.com/in/ahmet-fuzunkaya/" alt="LinkedIn">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -329,7 +332,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://www.youtube.com/c/UC7VsVp68Rx_Ah9J6Yll4qKQ?sub_confirmation=1">
     <img 
-      alt="youtube subscribers" 
+      alt="Youtube Subscribers" 
       title="Subscribe To My YouTube channel" 
       src="https://img.shields.io/youtube/channel/subscribers/UC7VsVp68Rx_Ah9J6Yll4qKQ?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630" />
     </a> 
@@ -341,16 +344,16 @@ Here are some ideas to get you started:
     </a> 
   <a href="https://twitter.com/faruk_uzunkaya">
     <img 
-      alt="followers" 
-      title="Follow me on Twitter" 
-      src="https://img.shields.io/twitter/follow/faruk_uzunkaya?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge" />
-    </a>
+      alt="Followers" 
+      title="Follow Me On Twitter" 
+      src="https://img.sıhields.io/twitter/follow/faruk_uzunkaya?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
   <a href="https://github.com/MihrimatriX">
     <img 
-      alt="followers" 
-      title="Follow me on Github" 
+      alt="Followers" 
+      title="Follow Me On Github" 
       src="https://img.shields.io/github/followers/MihrimatriX?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" />
-    </a>
+  </a>
 </p>
 <!-- My Connect END -->
 
@@ -361,7 +364,7 @@ Here are some ideas to get you started:
 Saygılarımla, [Ahmet F. UZUNKAYA](https://github.com/MihrimatriX)
 
 <p>
-<img alt="Görüntüleme" src="https://gpvc.arturio.dev/MihrimatriX"/>
+<img alt="Views" src="https://gpvc.arturio.dev/MihrimatriX"/>
 </p>
 
-Son Düzenleme : [ 04 / 06 / 2021 ]
+Son Düzenleme : [ 25 / 06 / 2021 ]
