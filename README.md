@@ -4,14 +4,14 @@
 <br>
 
 <h1>
-<p align="center">Merhaba, Ben Ahmet Faruk 
+<p align="center">Hi, I'm Ahmet Faruk 
 <a href="https://rahulmahesh.me/">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
 </a>
 </p>
 
-<h2> About Me 
+<h2> ABOUT ME  
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="32px" />
 </h2>
 
@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 
 <!-- Skills START -->
 
-<h2> Skills 
+<h2> SKILLS & 🛠️ MY FAVORITE TOOLS
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> 
+</br>
 </h2>
 
-## 🛠️ MY FAVORITE TOOLS
-
+---
 
 </br>
 
@@ -157,6 +157,8 @@ Here are some ideas to get you started:
     </a>
 </p>
 
+</br>
+
 ### 💻 Software And Tools
 
 <p>
@@ -219,8 +221,6 @@ Here are some ideas to get you started:
     </a>
 </p>
 
----
-
 </br>
 </br>
 </br>
@@ -228,7 +228,7 @@ Here are some ideas to get you started:
 
 <!-- Github Stats START-->
 <p align="center">
-<h2> My GitHub Stats 
+<h2> MY GITHUB STATS    
 <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' />
 </h2>
 
@@ -346,7 +346,7 @@ Here are some ideas to get you started:
     <img 
       alt="Followers" 
       title="Follow Me On Twitter" 
-      src="https://img.sıhields.io/twitter/follow/faruk_uzunkaya?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge" />
+      src="https://img.shields.io/twitter/follow/faruk_uzunkaya?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://github.com/MihrimatriX">
     <img 
