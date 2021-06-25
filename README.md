@@ -15,20 +15,19 @@
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="32px" />
 </h2>
 
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Talk to me about Java, C, C++, JavaScript, Computer Graphics, 
+- 💬 Talk to me about Java, C, C++, JavaScript, Computer Graphics,
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 </br></br></br>
+
 <!-- Skills START -->
 
 <h2> Skills 
@@ -38,6 +37,7 @@ Here are some ideas to get you started:
 ## 🛠️ MY FAVORITE TOOLS
 
 ### 👨‍💻 Programming Languages
+
 </br>
 
 <p>
@@ -72,9 +72,6 @@ Here are some ideas to get you started:
     <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080.svg?logo=LaTeX&logoColor=white">
     </a>
     <a>
-    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
-    </a>
-    <a>
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white">
     </a>
     <a>
@@ -92,6 +89,7 @@ Here are some ideas to get you started:
 </p>
 
 ### 🧰 Frameworks and Libraries
+
 </br>
 
 <p>
@@ -100,6 +98,12 @@ Here are some ideas to get you started:
     </a>
     <a>
     <img alt="Electron" src="https://img.shields.io/badge/Electron%20-%2320232e.svg?logo=electron&logoColor=white">
+    </a>
+    <a>
+    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
+    </a>
+    <a>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C">
     </a>
     <a>
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white">
@@ -125,6 +129,7 @@ Here are some ideas to get you started:
 </p>
 
 ### 🗄️ Databases And Cloud Hosting
+
 </br>
 
 <p>
@@ -152,12 +157,30 @@ Here are some ideas to get you started:
 </p>
 
 ### 💻 Software And Tools
+
 </br>
 
 <p>
     <a>
     <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white">
     </a>
+    <a>
+    <img alt="Adobe" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
+    </a>
+    <a>
+    <img alt="Adobe" src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop">
+    </a><a>
+    <img alt="Adobe" src="https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign">
+    </a>    
+    <a>
+    <img alt="Adobe" src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255">
+    </a>
+    <a>
+    <img alt="Adobe" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
+    </a>
+    <a>
+    <img alt="Adobe" src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator">
+    </a><!--     -->
     <a>
     <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white">
     </a>
@@ -200,16 +223,12 @@ Here are some ideas to get you started:
 
 ---
 
-</br></br></br>
-
+</br>
+</br>
+</br>
 <!-- Skills END -->
 
-
-
-
-
 <!-- Github Stats START-->
-
 <p align="center">
 <h2> My GitHub Stats 
 <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' />
@@ -239,64 +258,101 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a>
-<img alt="GitHub Metrics" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MihrimatriX&langs_count=10&theme=monokai&layout=compact&count_private=true" width="660px" />
+<img 
+  alt="GitHub Metrics" 
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MihrimatriX&langs_count=10&theme=monokai&layout=compact&count_private=true" 
+  width="660px" />
 </a>
 </br>
 
 <p align="center">
 <a>
-<img alt="MihrimatriX's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MihrimatriX&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="660px" />
+<img 
+  alt="MihrimatriX's Activity Graph" 
+  src="https://activity-graph.herokuapp.com/graph?username=MihrimatriX&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"            
+  width="660px" />
 </a>
 </br>
 
 <p align="center">
 <a>
-<img alt="MihrimatriX's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MihrimatriX&theme=monokai-metallian&hide_border=true" width="660px" />
+<img 
+  alt="MihrimatriX's Streak" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=MihrimatriX&theme=monokai-metallian&hide_border=true" 
+  width="660px" />
 </a>
-</br></br></br>
-
+</br>
+</br>
+</br>
 <!-- Github Stats END-->
 
-
-
-
-
 <!-- My Connect START -->
-
 <h2> Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px"> </h2><br>
 
 <p align="center">
-<a href="https://www.youtube.com/c/DevProTips">
-<img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://www.youtube.com/c/UC7VsVp68Rx_Ah9J6Yll4qKQ">
+<img 
+  alt="Youtube" 
+  title="Youtube" 
+  src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-<a href="https://twitter.com/DenverCoder1">
-<img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<a href="https://twitter.com/faruk_uzunkaya">
+<img 
+  alt="Twitter" 
+  title="Twitter" 
+  src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-<a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
-<img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/>
+<a href="https://discord.gg/UpbJxVzgyQ" alt="Dev Pro Tips Discussion & Support Server">
+<img 
+  src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/>
 </a>
-</p><br>
+
+<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+
+<a href="mailto:dataonatangent@gmail.com?subject=Hola%20Jiji">
+<img 
+    src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" 
+    alt="Gmail"/>
+</a>
+
+<a href="">
+<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">
+</a>
+
+<a href="https://discord.gg/UpbJxVzgyQ" alt="Dev Pro Tips Discussion & Support Server">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+<br>
 
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600"/></a> 
-  <a href="https://twitter.com/DenverCoder1">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/DenverCoder1">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+  <a href="https://www.youtube.com/c/UC7VsVp68Rx_Ah9J6Yll4qKQ?sub_confirmation=1">
+    <img 
+      alt="youtube subscribers" 
+      title="Subscribe To My YouTube channel" 
+      src="https://img.shields.io/youtube/channel/subscribers/UC7VsVp68Rx_Ah9J6Yll4qKQ?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630" />
+    </a> 
+  <a href="https://www.youtube.com/c/UC7VsVp68Rx_Ah9J6Yll4qKQ">
+    <img 
+      alt="Youtube Views" 
+      title="YouTube Views" 
+      src="https://img.shields.io/youtube/channel/views/UC7VsVp68Rx_Ah9J6Yll4qKQ?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600" />
+    </a> 
+  <a href="https://twitter.com/faruk_uzunkaya">
+    <img 
+      alt="followers" 
+      title="Follow me on Twitter" 
+      src="https://img.shields.io/twitter/follow/faruk_uzunkaya?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge" />
+    </a>
+  <a href="https://github.com/MihrimatriX">
+    <img 
+      alt="followers" 
+      title="Follow me on Github" 
+      src="https://img.shields.io/github/followers/MihrimatriX?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" />
+    </a>
 </p>
-
-
-
 <!-- My Connect END -->
-
-
-
-
 
 ---
 
