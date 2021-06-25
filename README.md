@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height="250px" src="https://raw.githubusercontent.com/MihrimatriX/MihrimatriX/master/Animation.gif" />
+<img width="100%" height="250px" src="./Animation.gif" />
 </div>
 <br>
 
