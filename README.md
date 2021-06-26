@@ -166,7 +166,7 @@ Here are some ideas to get you started:
     <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white">
     </a>
     <a>
-    <img alt="Adobe" src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop">
+    <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop">
     </a>
     <a>
     <img alt="InDesign" src="https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign">
@@ -175,10 +175,10 @@ Here are some ideas to get you started:
     <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255">
     </a>
     <a>
-    <img alt="Adobe" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
     </a>
     <a>
-    <img alt="Adobe" src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator">
+    <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator">
     </a>
     <a>
     <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white">
@@ -219,8 +219,44 @@ Here are some ideas to get you started:
     <a>
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
     </a>
-      <a>
-    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=Visual%Studio&logoColor=white">
+    <a>
+    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual%20studio&logoColor=white">
+    </a>  
+    <a>
+    <img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?&logo=Atom&logoColor=white">
+    </a>  
+    <a>
+    <img alt="Windows 95" src="https://img.shields.io/badge/Windows_95-008080?&logo=windows-95&logoColor=white">
+    </a>  
+    <a>
+    <img alt="Windows XP" src="https://img.shields.io/badge/Windows_XP-003399?&logo=windows-xp&logoColor=white">
+    </a>  
+    <a>
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white">
+    </a>
+    <a>
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black">
+    </a>
+    <a>
+    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white">
+    </a>
+    <a>
+    <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?&logo=kali-linux&logoColor=white">
+    </a>
+    <a>
+    <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&logo=sublime-text&logoColor=important">
+    </a>
+    <a>
+    <img alt="IntelliJ Idea" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&logo=intellij-idea&logoColor=white">
+    </a>
+    <a>
+    <img alt="NotePad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2B%2B&logoColor=black">
+    </a>
+    <a>
+    <img alt="Clion" src="https://img.shields.io/badge/CLion-000000?&logo=clion&logoColor=white">
+    </a>
+    <a>
+    <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?&logo=Adobe%20XD&logoColor=white">
     </a>
 </p>
 
@@ -238,7 +274,7 @@ Here are some ideas to get you started:
 </br>
 <p align="center">
 <a>
-<img alt="MihrimatriX" src="https://github-profile-trophy.vercel.app/?username=MihrimatriX&theme=onedark&column=5&row=2" width="660px" height="220px"/>
+<img alt="MihrimatriX" src="https://github-profile-trophy.vercel.app/?username=MihrimatriX&theme=onedark&column=5&row=2" width="660px" />
 </a>
 </p>
 </br>
