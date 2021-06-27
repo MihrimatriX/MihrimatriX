@@ -155,6 +155,12 @@ Here are some ideas to get you started:
     <a>
     <img alt="MsSQL" src ="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?&logo=microsoft%20sql%20server&logoColor=white">
     </a>
+    <a>
+    <img alt="Firebase" src ="https://img.shields.io/badge/-Firebase-FFCA28?&logo=firebase&logoColor=ffffff">
+    </a>
+    <a>
+    <img alt="Microsoft Azure" src ="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?&logo=microsoft-azure&logoColor=ffffff">
+    </a>
 </p>
 
 </br>
@@ -257,6 +263,12 @@ Here are some ideas to get you started:
     </a>
     <a>
     <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?&logo=Adobe%20XD&logoColor=white">
+    </a>
+    <a>
+    <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?&logo=npm">
+    </a>
+    <a>
+    <img alt="PowerShell" src="http://img.shields.io/badge/-Powershell-5391FE?&logo=powershell&logoColor=ffffff">
     </a>
 </p>
 
