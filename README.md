@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height="250px" src="./Animation.gif" />
+<img width="100%" height="250px" src="https://picsum.photos/512/220" />
 </div>
 <br>
 
@@ -15,6 +15,9 @@
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="32px" />
 </h2>
 
+İsmimi bahşettiğime göre sizlere haritanın kalanını açıkalamya başlayabilirim.
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -27,6 +30,47 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 </br></br></br>
+
+
+## 📘 My Favorite Projects & Repo
+
+</br>
+
+<p align="center">
+  <a href="">
+  <img 
+    width="384" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MihrimatriX&repo=pbr-book-website&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" 
+    alt="readme-typing-svg">
+  </a>
+  <a href="">
+  <img 
+    width="384" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MihrimatriX&repo=Map-Generator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" 
+    alt="unicode-formatter">
+  </a>
+  <a href="">
+  <img 
+    width="384" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=MihrimatriX&repo=AwesomeBump&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" 
+    alt="weather-app-tutorial">
+  </a>
+  <a href="">
+  <img 
+    width="384" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MihrimatriX&repo=turkcekaynaklar-com&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" 
+    alt="table2ascii">
+  </a>
+</p>
+</br>
+<p align="center">
+  <a href="https://github.com/MihrimatriX?tab=repositories">
+  <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIGhlaWdodD0iMTYiIHdpZHRoPSIxNiI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMiAyLjVBMi41IDIuNSAwIDAxNC41IDBoOC43NWEuNzUuNzUgMCAwMS43NS43NXYxMi41YS43NS43NSAwIDAxLS43NS43NWgtMi41YS43NS43NSAwIDExMC0xLjVoMS43NXYtMmgtOGExIDEgMCAwMC0uNzE0IDEuNy43NS43NSAwIDAxLTEuMDcyIDEuMDVBMi40OTUgMi40OTUgMCAwMTIgMTEuNXYtOXptMTAuNS0xVjloLThjLS4zNTYgMC0uNjk0LjA3NC0xIC4yMDhWMi41YTEgMSAwIDAxMS0xaDh6TTUgMTIuMjV2My4yNWEuMjUuMjUgMCAwMC40LjJsMS40NS0xLjA4N2EuMjUuMjUgMCAwMS4zIDBMOC42IDE1LjdhLjI1LjI1IDAgMDAuNC0uMnYtMy4yNWEuMjUuMjUgMCAwMC0uMjUtLjI1aC0zLjVhLjI1LjI1IDAgMDAtLjI1LjI1eiIgIGZpbGw9IiNmZmYiLz48L3N2Zz4="/>
+  </a>
+</p>
+</br>
+</br>
+</br>
 
 <!-- Skills START -->
 <h2> SKILLS & 🛠️ MY FAVORITE TOOLS
@@ -90,7 +134,7 @@ Here are some ideas to get you started:
 
 </br>
 
-### 🧰 Frameworks and Libraries
+### 🧰 Frameworks & Libraries
 
 <p>
     <a>
@@ -130,7 +174,7 @@ Here are some ideas to get you started:
 
 </br>
 
-### 🗄️ Databases And Cloud Hosting
+### 🗄️ Databases & Cloud Hosting
 
 <p>
     <a>
@@ -164,7 +208,7 @@ Here are some ideas to get you started:
 
 </br>
 
-### 💻 Software And Tools
+### 💻 Software & Tools
 
 <p>
     <a>
@@ -270,7 +314,6 @@ Here are some ideas to get you started:
     <img alt="PowerShell" src="http://img.shields.io/badge/-Powershell-5391FE?&logo=powershell&logoColor=ffffff">
     </a>
 </p>
-
 </br>
 </br>
 </br>
