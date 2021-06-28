@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height="250px" src="https://picsum.photos/512/220" />
+<img width="100%" height="250px" src="https://i.picsum.photos/id/665/660/200.jpg?hmac=7UpeLp-RjQDLz49xaf56GTHoCynHnT_QM0Keq5dIv6E" />
 </div>
 <br>
 
@@ -18,9 +18,9 @@
 İsmimi bahşettiğime göre sizlere haritanın kalanını açıkalamya başlayabilirim.
 
 
-Here are some ideas to get you started:
+Kısaca Özetlemek Gerekirse:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...s
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </br></br></br>
 
 
-## 📘 My Favorite Projects & Repo
+## 📘 My Favorite Projects & Repos
 
 </br>
 
