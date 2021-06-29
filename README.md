@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height="250px" src="https://i.picsum.photos/id/665/660/200.jpg?hmac=7UpeLp-RjQDLz49xaf56GTHoCynHnT_QM0Keq5dIv6E" />
+<img width="100%" height="250px" src="https://picsum.photos/660/200" />
 </div>
 <br>
 
@@ -15,19 +15,15 @@
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="32px" />
 </h2>
 
-İsmimi bahşettiğime göre sizlere haritanın kalanını açıkalamya başlayabilirim.
+Now that I've given my name, I can begin to explain the rest of the map to you. Here I usually share useful little software that will do my little things while I'm learning on my own. You will usually find tools related to computer graphics and homework I did in my undergraduate studies. Apart from that, you can ask me various questions here. Computer graphics. I can answer your questions about C/C++, Java and JavaScript. If you want to reach, there are relevant sections at the bottom. 
 
 
-Kısaca Özetlemek Gerekirse:
+To Summarize Briefly ::
 
-- 🔭 I’m currently working on ...s
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Freelancer and SelfLearning.
+- 🌱 I’m currently learning TypeScript, Docker, Mikroservices, CGI.
 - 💬 Talk to me about Java, C, C++, JavaScript, Computer Graphics,
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: <a href="mailto:sosyal.ahmet.fuzunkaya@gmail.com">sosyal.ahmet.fuzunkaya@gmail.com</a>
 
 </br></br></br>
 
@@ -312,6 +308,22 @@ Kısaca Özetlemek Gerekirse:
     </a>
     <a>
     <img alt="PowerShell" src="http://img.shields.io/badge/-Powershell-5391FE?&logo=powershell&logoColor=ffffff">
+    </a>
+</p>
+
+</br>
+
+### 💻 Workscape Spec 
+
+<p>
+    <a>
+    <img alt="950M" src="https://img.shields.io/badge/NVIDIA-GTX950M-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+    </a>
+    <a>
+    <img alt="Core i7" src="https://img.shields.io/badge/Intel-Core_i7_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+    </a>
+    <a>
+    <img alt="HP" src ="https://img.shields.io/badge/Windows-HP_Pavilion_Gaming-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     </a>
 </p>
 </br>
