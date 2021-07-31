@@ -313,7 +313,7 @@ To Summarize Briefly ::
 
 </br>
 
-### 💻 Workscape Spec 
+### 💻 Workspace Spec 
 
 <p>
     <a>
@@ -351,19 +351,21 @@ To Summarize Briefly ::
 </a>
 </br>
 
-<p align="center">
-<a>
-<img alt="GitHub Metrics" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MihrimatriX&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" width="660px"/>
-</a>
-</br>
 
 <p align="center">
+<a><img 
+  alt="GitHub Metrics" 
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=MihrimatriX&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" 
+  width="330px" height="auto"/>
+</a>
 <a>
 <img 
   alt="GitHub Metrics" 
   src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MihrimatriX&langs_count=20&theme=monokai&layout=compact&count_private=true" 
-  width="660px" />
+  width="330px" />
 </a>
+</p>
+
 </br>
 
 <p align="center">
@@ -372,7 +374,7 @@ To Summarize Briefly ::
   alt="MihrimatriX's Activity Graph" 
   src="https://activity-graph.herokuapp.com/graph?username=MihrimatriX&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"            
   width="660px" />
-</a>
+
 </br>
 
 <p align="center">
@@ -422,7 +424,7 @@ To Summarize Briefly ::
     alt="Gmail"/>
 </a>
 
-<a href="" alt="My Portfolio" >
+<a href="mihrimatrix.github.io" alt="My Portfolio" >
 <img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">
 </a>
 
