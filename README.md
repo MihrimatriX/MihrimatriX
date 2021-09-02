@@ -356,13 +356,15 @@ To Summarize Briefly ::
 <a><img 
   alt="GitHub Metrics" 
   src="https://github-readme-stats-eight-theta.vercel.app/api?username=MihrimatriX&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" 
-  width="330px" height="auto"/>
+  width="660px" height="auto"/>
 </a>
+
+<p align="center">
 <a>
 <img 
   alt="GitHub Metrics" 
   src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MihrimatriX&langs_count=20&theme=monokai&layout=compact&count_private=true" 
-  width="330px" />
+  width="660px" />
 </a>
 </p>
 
