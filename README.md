@@ -30,23 +30,6 @@ Merhaba! Ben Ahmet Faruk Uzunkaya. Full Stack .NET Developer olarak çalışıyo
 - Azure Cloud Services
 - SQL Server & MongoDB
 
-## 💼 Öne Çıkan Projelerim
-
-<div align="center">
-  <a href="https://github.com/MihrimatriX/pbr-book-website">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MihrimatriX&repo=pbr-book-website&theme=radical" alt="PBR Book Website" />
-  </a>
-  <a href="https://github.com/MihrimatriX/Map-Generator">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MihrimatriX&repo=Map-Generator&theme=radical" alt="Map Generator" />
-  </a>
-  <a href="https://github.com/MihrimatriX/AwesomeBump">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MihrimatriX&repo=AwesomeBump&theme=radical" alt="AwesomeBump" />
-  </a>
-  <a href="https://github.com/MihrimatriX/turkcekaynaklar-com">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MihrimatriX&repo=turkcekaynaklar-com&theme=radical" alt="Türkçe Kaynaklar" />
-  </a>
-</div>
-
 ## 🛠️ Teknoloji Stack'im
 
 ### 👨‍💻 Backend Teknolojileri
