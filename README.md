@@ -24,7 +24,7 @@ Merhaba! Ben Ahmet Faruk Uzunkaya. Full Stack .NET Developer olarak çalışıyo
 - DevOps & CI/CD
 
 ### 🔭 Aktif Olarak Çalıştığım Teknolojiler
-- .NET Core / .NET 6+
+- .NET Core / .NET 7+
 - React & TypeScript
 - Docker & Kubernetes
 - Azure Cloud Services
@@ -82,14 +82,6 @@ Merhaba! Ben Ahmet Faruk Uzunkaya. Full Stack .NET Developer olarak çalışıyo
   <a href="mailto:sosyal.ahmet.fuzunkaya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-## 💻 Çalışma Alanım
-
-<div align="center">
-  <img src="https://img.shields.io/badge/NVIDIA-GTX950M-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intel-Core_i7_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-HP_Pavilion_Gaming-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ---
