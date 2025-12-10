@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Merhaba,+Ben+Ahmet+Faruk;Full+Stack+.NET+Developer;React+Enthusiast" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MihrimatriX&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MihrimatriX&show_icons=true&theme=radical" />
-</div>
-
 ## 🚀 Profesyonel Profil
 
 Merhaba! Ben Ahmet Faruk Uzunkaya. Full Stack .NET Developer olarak çalışıyorum ve React ekosisteminde uzmanlaşmış durumdayım. Modern web teknolojileri ve yazılım geliştirme konusunda tutkulu bir geliştiriciyim.
@@ -63,13 +55,6 @@ Merhaba! Ben Ahmet Faruk Uzunkaya. Full Stack .NET Developer olarak çalışıyo
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
 </div>
 
-## 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MihrimatriX&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihrimatriX&layout=compact&theme=radical" />
-</div>
-
 ## 🌐 Sosyal Medya & İletişim
 
 <div align="center">
@@ -85,10 +70,6 @@ Merhaba! Ben Ahmet Faruk Uzunkaya. Full Stack .NET Developer olarak çalışıyo
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://gpvc.arturio.dev/MihrimatriX" alt="Profile Views" />
-</div>
 
 <div align="center">
   <h3>⚡️ İyi Günler! ⚡️</h3>
