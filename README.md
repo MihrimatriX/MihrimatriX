@@ -1,80 +1,104 @@
-# Ahmet Faruk Uzunkaya
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Merhaba,+Ben+Ahmet+Faruk;Full+Stack+.NET+Developer;React+Enthusiast" alt="Typing SVG" />
+
+<h1>Merhaba, ben Ahmet Faruk 👋</h1>
+
+<p><b>Full Stack .NET Developer</b> · React & Next.js · React Native</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/ahmet-fuzunkaya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square" /></a>
+  <a href="mailto:iletisim@ahmetfuzunkaya.com"><img src="https://img.shields.io/badge/E--posta-512BD4?style=flat-square" /></a>
+  <a href="https://ahmetfuzunkaya.com"><img src="https://img.shields.io/badge/ahmetfuzunkaya.com-000000?style=flat-square" /></a>
+  <img src="https://komarev.com/ghpvc/?username=MihrimatriX&style=flat-square&color=512BD4&label=Profil+Görüntülenme" />
+</p>
+
 </div>
 
-## 🚀 Profesyonel Profil
+## 👨‍💻 Hakkımda
 
-Merhaba! Ben Ahmet Faruk Uzunkaya. Full Stack .NET Developer olarak çalışıyorum ve React ekosisteminde uzmanlaşmış durumdayım. Modern web teknolojileri ve yazılım geliştirme konusunda tutkulu bir geliştiriciyim.
+**.NET** tarafında uçtan uca uygulamalar geliştiren bir Full Stack Developer'ım. Backend'de ASP.NET Core ve Node.js ile API'ler ve servisler yazıyor, frontend'de **React, Next.js ve TypeScript** ile arayüzler kuruyorum. Mobil tarafta **React Native** ve biraz da **Flutter** ile uygulamalar geliştiriyorum.
 
-### 💼 Uzmanlık Alanlarım
-- Full Stack .NET Development
-- React & TypeScript
-- RESTful API Tasarımı
-- Mikroservis Mimarisi
-- DevOps & CI/CD
+- 🔧 **Backend:** ASP.NET Core Web API, Entity Framework Core, Node.js, RESTful API tasarımı, mikroservis mimarisi
+- 🎨 **Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS, Three.js, Redux, Material UI
+- 📱 **Mobil:** React Native, Flutter & Dart ile cross-platform uygulamalar
+- ☁️ **Cloud & DevOps:** Google Cloud, Firebase, Docker, Kubernetes, CI/CD süreçleri
 
-### 🔭 Aktif Olarak Çalıştığım Teknolojiler
-- .NET Core / .NET 7+
-- React & TypeScript
-- Docker & Kubernetes
-- Azure Cloud Services
-- SQL Server & MongoDB
+### 🔭 Şu Sıralar
 
-## 🛠️ Teknoloji Stack'im
+- 🎮 **In-Die Valley** üzerinde çalışıyorum
+- 🧊 **Three.js** ve **Computer Graphics** üzerine yoğunlaşıyorum
+- 🧩 **Mikroservis** mimarileri üzerine çalışıyorum
 
-### 👨‍💻 Backend Teknolojileri
+## 🛠️ Teknolojiler
+
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Mobil</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Veritabanı</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub İstatistikleri
+
 <div align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MihrimatriX&show_icons=true&theme=transparent&hide_border=true&locale=tr&card_width=495" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihrimatriX&layout=compact&hide=html,css&langs_count=8&theme=transparent&hide_border=true&locale=tr&card_width=495" />
+  <br />
+  <img width="49%" src="https://streak-stats.demolab.com?user=MihrimatriX&theme=transparent&hide_border=true&locale=tr" />
 </div>
 
-### 🎨 Frontend Teknolojileri
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MihrimatriX/MihrimatriX/output/github-snake-dark.svg" />
+    <img alt="Katkı yılanı" src="https://raw.githubusercontent.com/MihrimatriX/MihrimatriX/output/github-snake.svg" />
+  </picture>
 </div>
 
-### 🗄️ Veritabanları
-<div align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
+## 📫 İletişim
 
-### 🔧 DevOps & Araçlar
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
-</div>
-
-## 🌐 Sosyal Medya & İletişim
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ahmet-fuzunkaya/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/faruk_uzunkaya">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:sosyal.ahmet.fuzunkaya@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <h3>⚡️ İyi Günler! ⚡️</h3>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=50&lines=Son+Güncelleme:+10+%2F+06+%2F+2025" alt="Last Update" />
-</div>
+Bir proje fikrin ya da sorun varsa [LinkedIn](https://www.linkedin.com/in/ahmet-fuzunkaya/) üzerinden ya da [iletisim@ahmetfuzunkaya.com](mailto:iletisim@ahmetfuzunkaya.com) ile ulaşabilirsin.
