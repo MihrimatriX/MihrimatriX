@@ -24,9 +24,9 @@
 
 ### 🔭 Şu Sıralar
 
-- 🎮 **In-Die Valley** üzerinde çalışıyorum
-- 🧊 **Three.js** ve **Computer Graphics** üzerine yoğunlaşıyorum
-- 🧩 **Mikroservis** mimarileri üzerine çalışıyorum
+- 🤖 **Agentic workflow**'lar üzerine çalışıyorum: LLM tabanlı ajanlar, tool calling ve çok adımlı otomasyonlar gibi modern trendleri takip etmeye ve deneyimlemeye çalışıyorum.
+- 🧩 **Mikroservis** mimarileri üzerine çalışıyor ve yoğunlaşıyorum
+- 🧊 **Three.js** ve **Computer Graphics** üzerine hobby projeleriyle uğraşıyorum.
 
 ## 🛠️ Teknolojiler
 
